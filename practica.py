@@ -7,6 +7,7 @@ edad=input("edad ")
 print("--------")
 print(f"{apellido}, {nombre}")
 print(f"{cargo}, {edad}")
+ 
 
 
 print(correo)
