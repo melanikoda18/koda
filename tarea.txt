@@ -1,0 +1,1 @@
+{nombre} se fue de paseo y se encontró un sendero misterioso en el bosque. {nombre} {verbo} con curiosidad y {verbo} una puerta antigua. Al entrar, quedó sorprendido al ver un jardín encantado, lleno de flores brillantes y árboles imponentes. {nombre} se sintió {adjetivo} y pasó horas explorando aquel lugar mágico.

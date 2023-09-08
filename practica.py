@@ -13,4 +13,8 @@ print()
 print(ID+"-"+ str (len(ID))) # el str sirve para tranformar una variable o un numero  en "texto" y el len para indicar el largo de algo 
 print("-----------------------------------------------")
 
-print(f "  str (len(apellido)) )
+print(f"Apellido: {str(len(apellido))}  caracteres  ")# str (len(apellido))
+print(f"Nombre: {str(len(nombre))}  caracteres")
+print(f"Cargo: {str(len(cargo))}  caracteres")
+print(f"Correo: {str(len(correo))}  caracteres")
+print("----------------------------------------------------------------")
