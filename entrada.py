@@ -4,3 +4,4 @@ edad=input("edad ")
 print(nombre,apellido,edad)
 print(f"usted es {nombre} {apellido} de {edad} años de edad ")
 
+
