@@ -9,4 +9,4 @@ elif e>=15 and e<=17:
 elif e>=18 and e <=20:
     print("Tu beca es de 600.000 pesos")
 elif e>=21:
-    print("Tu beca es de 400.000 pesos")    
+    print("Tu beca es de 400.000 pesos")
