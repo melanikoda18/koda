@@ -1,5 +1,5 @@
 respuesta="S"
-while respuesta =="S":
+while respuesta =="S":# while significa mientras 
     p=int(input(" 1)cono (2500)\n 2)vaso (3000)\n 3)ensalada de frutas (5000)\n selecciona una opcion:  "))
     c=int(input("cantidad de pedidos: "))
     if p==1:
@@ -20,7 +20,5 @@ while respuesta =="S":
             print(f"el total a pagar por {c} ensalada de frutas es: ({total}) ")
         else:
             print(f"el total a pagar por {c} ensaladas de frutas es: ({total}) ") 
-
-
     respuesta=input("hay mas clientes? S/N: ").upper()
 print("se acabo el bucle")
